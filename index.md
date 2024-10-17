@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# Bienvenue sur Compétences github
+github est un outil génial
